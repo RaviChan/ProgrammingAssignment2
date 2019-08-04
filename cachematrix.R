@@ -34,7 +34,7 @@ cachemean <- function(x, ...) {
   x$setmean(m)
   m
 }
-## ==== Above is an example. ====
+## ==== Above is an example ====
 
 
 ## This function creates a special "matrix" object that can cache its inverse.
